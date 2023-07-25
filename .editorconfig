@@ -1,0 +1,9 @@
+root = true
+
+[*.lua]
+indent_style = spaces
+indent_size = 3
+
+[*.tl]
+indent_style = spaces
+indent_size = 3
